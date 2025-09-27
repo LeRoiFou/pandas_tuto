@@ -21,3 +21,9 @@ df_parquet = pd.read_parquet("votre_fichier.parquet")
 ```
 
 Date : 11/02/2025
+
+---
+
+## <font color="yellow">Tester la librairie [fireducks](https://fireducks-dev.github.io/docs/get-started/) dès qu'elle est déployée sous Windows</font>
+
+Date : 27/09/2025
